@@ -21,7 +21,3 @@
 - Clinical, logical, and emotionally detached; tends to treat catastrophe as useful data
 - Views others as potentially useful to his research, but not necessarily as equals
 
-# Original Notes
-- A Drow wizard named Xavriel is present in this chamber
-- He can transmute the suspended blood into Philosopher’s Stones
-- Philosopher’s Stones can grant immortality, heal wounds, or turn objects (and limbs) into solid gold

@@ -15,4 +15,3 @@
 - The party suspected he might actually be a brass dragon based on his horns, manner, wealth, and lair
 - Returned the party to the jungle after the games with their winnings and the stone tablet still in their possession
 
-# Original Notes

@@ -15,3 +15,4 @@ Kids picking on me turned to guards searching me without explanation. I kept my 
 He was a blacksmith apprentice when a child, later he refined his skills in the military.
  
 166g for gem
+

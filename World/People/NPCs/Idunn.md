@@ -6,4 +6,3 @@
 - Her golden apples are precious enough to serve as the price for Glenn's fortress-building services
 - Her imprisonment is now central to the party's divine quest
 
-# Original Notes

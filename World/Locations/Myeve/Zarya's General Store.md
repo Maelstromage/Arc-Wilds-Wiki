@@ -48,4 +48,3 @@
 - Will she remain a shopkeeper, or grow into a larger supplier, merchant power, or patron of expeditions?
 - What happens if adventurers invest in her plans or become entangled in her ambitions?
 
-# Original Notes

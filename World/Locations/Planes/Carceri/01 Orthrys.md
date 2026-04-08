@@ -73,7 +73,3 @@
 - later consequences 
 - downstream plot threads 
 - unresolved arc material 
-# Original Notes 
-- raw notes 
-- older phrasing 
-- preserved material

@@ -19,15 +19,3 @@
 - What other powers or gifts does the grove bestow?
 - Are there other guardians besides Cornelius?
 
-# DM Notes
-## Hidden Truths
-- The grove may be a living portal to other realms or time periods.
-
-## Mechanics / Encounters
-- Druidcraft is involved in the grove's blessing; other forest spirits may be present.
-
-## Future Hooks
-- The grove could be tied to future druidic quests or plant-based magic in the region.
-
-# Original Notes
-- Sacred Grove exists as part of the Bone Speaker Jungle lore; Cornelius's vine hand is connected to it.

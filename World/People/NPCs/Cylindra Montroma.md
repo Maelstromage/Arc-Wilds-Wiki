@@ -21,5 +21,3 @@
 - Reunited with her loyal handmaiden [[Issa]] and a retinue of allied Drow soldiers
 - Gave the party a silver spider-shaped hair clip bearing her house crest as a token of trust
 
-# Original Notes
-

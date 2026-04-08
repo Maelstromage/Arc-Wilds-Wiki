@@ -51,5 +51,3 @@
 - Will Harrison remain simply a scholar and patron, or will his growing body of knowledge draw him into greater danger?
 
 
-# Original Notes
-

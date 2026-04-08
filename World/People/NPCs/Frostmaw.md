@@ -15,19 +15,3 @@
 - Flew toward the dwarven settlement as the storm worsened [[2022-03-02 Session 5]]
 - Was responsible for the destruction of the dwarf settlement before the party could return [[2022-03-02 Session 5]]
 
-# Original Notes
-- Shino fires an arrow at the dragon.
-- The dragon comes back and unleashes a breath attack.
-- Cassian creates an illusion of a red dragon and the white dragon goes back to defend his horde.
-- The mountain builds up with a blizzard and the dragon flies down towards the dwarven city.
-- By the time they got there it was too late, everyone was dead.
-
-- A dragon flys down.
-- They try to convince it they want to join him.
-- He makes them throw down their loot and is about to kill them and take their stuff.
-- In the end they convince him they will be his minions.
-- He smells the dwaves on them.
-- Slim lies and says she killed the dwaves, and he flies away to see her handiwork.
-
-- Kobolds were investigating how to get into the temple because FrostMaw wanted the treasure within
-- White Dragon flying over Frostmaw is name

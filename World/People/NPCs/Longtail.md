@@ -10,4 +10,3 @@
 - Was encountered again by the party when they left the temple through the golden doors
 - Small, opportunistic, and accustomed to bargaining for snacks
 
-# Original Notes

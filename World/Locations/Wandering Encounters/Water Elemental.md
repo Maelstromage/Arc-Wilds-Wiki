@@ -20,18 +20,3 @@
 - Why does it demand tribute from travelers?
 - What body of water or territory does it claim?
 
-# DM Notes
-## Hidden Truths
-
-## NPC / Creature Truths
-- Graa'zuuck is not immediately hostile if proper tribute is offered.
-
-## Mechanics / Encounters
-- Pay tribute to avoid fighting him.
-
-## Future Hooks
-- Graa'zuuck may become a recurring toll-keeper or territorial force.
-
-# Original Notes
-- Name is Graa'zuuck
-- pay him a tribute to avoid fighting him.

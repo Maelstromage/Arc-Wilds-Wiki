@@ -21,14 +21,3 @@
 - Why did some of the figures there seem familiar to Papa Jan?
 - What becomes of those who wait too long on its shores?
 
-# DM Notes
-## Hidden Truths
-- Pluton should feel like a place where identity and judgment hang unresolved.
-
-## Mechanics / Encounters
-- Passing it may trigger recognition, dread, or spiritual unease without immediate explanation.
-
-## Future Hooks
-- Pluton may hold answers about dead kin, forgotten debts, or the sorting of souls.
-
-# Original Notes

@@ -33,14 +33,3 @@
 - What would be revealed if the lake were fully opened? [[2022-02-02 Session 1]]
 - What will the captured kobold reveal? [[2022-02-02 Session 1]]
 
-# Original Notes
-- They learned of some goblins just hanging out to the North East of Myeve, to the Northwest is a marshland, and to the north by a mountain there is a frozen body of water where kobalds and dwarves are working to dig in the ice together.
-- We decide to go check out the dwarves and kobalds digging in the ice, because that seems quite odd.
-- We find the frozen lake with the dwarves and kobalds.
-- Something tries to mind control both of them, but they are able to resist.
-- They see a giant creature with 3 eyes under the ice.
-- The kobolds and the dwarves don't want to let Tridus and Slim leave, so a fight breaks out.
-- It seemed the dwarves and kobolds were already pretty damaged and very weak.
-- Their feet had frost burn, and we got the impression they didn't actually want to hurt us, but couldn't control it.
-- We take the kobold back to town and we go speak with John Harrison, because he knows draconic.
-- He tells us the creature we found is likely and aboleth and he is excited at the chance of getting to ask questions because aboleth's have near infinite knowledge of everything.

@@ -10,7 +10,7 @@
 
 ## What is Known
 - Green Elf Forest is an elven forest. [[2020-12-20]]
-- The forest stands near the [[Ancient Elvish City]] and serves as part of its outer protection, helping keep the hidden city from being found.
+- The forest stands near the [[D&D/Campaigns/00 West Marches/World/Locations/Ancient Elvish City]] and serves as part of its outer protection, helping keep the hidden city from being found.
 - There is a small eatery in the forest called Black Castle, owned by hill dwarves and known for serving mini burgers.
 - The elves associated with it were described as wearing green outfits with gold leaves. [[2020-12-20]]
 - The party went there during the events of the 2020-12-20 session report. [[2020-12-20]]
@@ -47,20 +47,3 @@
 - What ties exist between Green Elf Forest and White Peak Mountain?
 - How did the revival of the three elves affect later relations with the forest?
 
-# Original Notes
-- There is a little eatery in Green Elf Forest owned by hill dwarves.
-- It is called Black Castle.
-- They make mini burgers there.
-- Green outfits with gold leaves
-- Labeled elven forest by Randi number 2
-- Went there and Vanessa's (kathleen)
-- Killed some elves because she wanted her fathers sword
-- Sword was almost stolen by her falther named Faraclaw
-- Mother is human named Brenda
-- Brass dragon named Bamrass said they could challenge him for the sword, the declined
-- They went to white peak mt an got a flower (blue) that will restore a person
-- If their soul declines the body becomes a zombie
-- If the body is dead for longer than 10 days it becomes a zombie
-- Baan(Andrew) learned how to perserve the flower.
-- They revived the three elves.
-- Was given treasure.

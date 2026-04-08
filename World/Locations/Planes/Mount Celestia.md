@@ -28,14 +28,3 @@
 - Who rules the dwarven works within it?
 - What is the full relationship between Mount Celestia and the other divine realms nearby?
 
-# DM Notes
-## Hidden Truths
-- Mount Celestia may hold far more than builders, including access to wider divine politics and ancient powers.
-
-## Mechanics / Encounters
-- Entry may require ritual action, craftsmanship, or worthiness rather than force alone.
-
-## Future Hooks
-- The party may need to return to Mount Celestia to finalize their fortress bargain with Glenn.
-
-# Original Notes

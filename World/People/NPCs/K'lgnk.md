@@ -11,10 +11,3 @@
 - Possibly a wizard who became caught up in the tentacle or portal magic
 - May be closely tied to the portal and its effects
 
-# Original Notes
-- Nothic in hut, K'lgnk
-- Childlike and playful
-- Might be a wizard that got caught up with the tentacles thing in the pot
-- Secretive, unstable, knows truths
-- Curious, may turn hostile
-- Knows player secrets

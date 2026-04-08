@@ -30,17 +30,3 @@
 - Who are the ferrymen, and whom do they serve?
 - Can what the Styx takes ever be restored?
 
-# DM Notes
-## Hidden Truths
-- The Styx is more than a river; it is a boundary of memory, self, and passage.
-
-## Mechanics / Encounters
-- Contact with the water can erase memory or identity.
-- Ferry travel on the Styx may expose travelers to visions, whispers, petitioners, and passing dead.
-- Rapids and caves along the route create sudden physical danger in addition to metaphysical risk.
-
-## Future Hooks
-- The River Styx may return as both route and threat if the party must cross the lower planes again.
-- Wilbur's fate raises the question of whether stolen identity can ever be recovered.
-
-# Original Notes

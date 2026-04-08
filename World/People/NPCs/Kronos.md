@@ -18,4 +18,3 @@
 - Loki and Idunn had passed by him about a week earlier in mortal time
 - His presence suggests Carceri holds divine prisoners and cosmic punishments far older than mortal history
 
-# Original Notes

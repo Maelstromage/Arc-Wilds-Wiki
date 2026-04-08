@@ -25,19 +25,3 @@
 - Will the land attract spiritual or magical consequences after the gateway was opened there?
 - Who else may take interest in the site once construction becomes more visible?
 
-# DM Notes
-## Hidden Truths
-- The land may become spiritually significant because it was used as a threshold site for guiding souls onward.
-
-## NPC Truths
-- Builders were hired through Jax to begin work.
-
-## Mechanics / Encounters
-- The site is intended to become a bastion combining defensive and arcane functions.
-
-## Future Hooks
-- The party's land can develop into a major home base.
-- Future allies, enemies, and strange visitors may begin to treat it as the party's known seat.
-- Repeated magical use at the site may change its significance over time.
-
-# Original Notes

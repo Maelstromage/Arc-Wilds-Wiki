@@ -9,10 +9,3 @@
 - If that power returns, the Old God may be released into the world
 - Last known to be in the Cloven Hoof Cave
 
-# Original Notes
-- Crohl Ba'an
-- 2-headed ogre wizard / Oni
-- Holds Old God’s power
-- Wants to create 1000 years of darkness
-- Last known to be in the Cloven Hoof Cave
-- Old God wants Crohl Ba'an dead to regain the power placed in him

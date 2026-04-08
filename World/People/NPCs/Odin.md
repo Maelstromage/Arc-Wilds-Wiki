@@ -11,4 +11,3 @@
 - Views Loki with the complicated love and disappointment of a father who still wants his son to find his own way back
 - Commands tremendous authority without needing to raise his voice
 
-# Original Notes

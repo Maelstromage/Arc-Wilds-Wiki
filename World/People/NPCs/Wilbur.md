@@ -12,4 +12,3 @@
 - Survived being pulled from the Styx, but lost his memory, identity, and portal magic
 - Was left as a hollow, confused remnant of himself after the river stripped away what he had been
 
-# Original Notes

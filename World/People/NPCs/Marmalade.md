@@ -12,4 +12,3 @@
 - A memorable living remnant of the temple's strange blood-based magic
 - rides around in a glass jar with little handles on each side, wears it like pants.
 
-# Original Notes

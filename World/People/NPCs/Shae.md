@@ -7,4 +7,3 @@
 - Departed when Wilbur the unicorn opened a portal to the Infinite Staircase, deciding that was far beyond the sort of journey he meant to guide
 - Represents the practical caution and grounded wisdom of his people
 
-# Original Notes

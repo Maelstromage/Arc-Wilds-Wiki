@@ -12,8 +12,3 @@
 - Appears tied to death, spirits, or the passage of souls
 - Her exact nature remains uncertain
 
-# DM Notes
-## Hidden Truths
-- Amanda was pulled back into the Fugue Plane and is being punished for losing her ankh.
-
-# Original Notes

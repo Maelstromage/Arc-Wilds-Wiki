@@ -19,5 +19,3 @@
 - The necklace can grant +10 stealth to the whole party for 10 minutes
 - Can serve as a quest giver tied to the necklace and his homeland
 
-# Original Notes
-

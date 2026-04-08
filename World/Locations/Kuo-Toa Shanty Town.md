@@ -23,18 +23,3 @@
 - What do the kuo-toa there worship or fear?
 - How does it connect to the rest of the marsh thread?
 
-# DM Notes
-## Hidden Truths
-- The kuo-toa shanty town was accidentally created as part of the Swamp Hut / portal / hags-and-wizard thread.
-
-## NPC Truths
-
-## Mechanics / Encounters
-
-## Future Hooks
-- If explored later, this location may reveal more about the portal’s consequences and the wider corruption of the marsh.
-
-# Original Notes
-- Kuo-Toa Shanty Town
-- This is the one that was mentioned in the swamp hut.
-- Little else is presently remembered.

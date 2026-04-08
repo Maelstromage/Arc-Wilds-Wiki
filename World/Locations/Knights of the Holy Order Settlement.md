@@ -23,7 +23,3 @@
 - How strongly is the place tied to Chauntea’s worship?
 - Why are flyers being used to spread word of it?
 
-# Original Notes
-- knigths of the holy order settlement
-- Chauntea, goddess of agriculture.
-- Flyers have been placed.

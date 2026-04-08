@@ -8,4 +8,3 @@
 - The party intends to outwit rather than overpower him
 - A figure of chaos, cunning, and layered motives
 
-# Original Notes

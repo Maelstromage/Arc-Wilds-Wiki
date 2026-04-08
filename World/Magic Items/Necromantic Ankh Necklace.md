@@ -12,4 +12,3 @@
 - Difficult or impossible to remove once it has chosen a bearer
 - Deeply tied to death, transition, and whatever rules govern the passage of souls
 
-# Original Notes

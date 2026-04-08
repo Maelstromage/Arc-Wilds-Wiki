@@ -28,15 +28,3 @@
 - What dangers or guardians exist along it for less fortunate travelers?
 - Why does its character seem to change depending on the destination below or above?
 
-# DM Notes
-## Hidden Truths
-- The staircase serves as a transitive path between worlds that are normally far beyond mortal reach.
-
-## Mechanics / Encounters
-- Time and perception behave strangely during the ascent or descent.
-- The atmosphere and visual character of the staircase may shift to reflect the realm it approaches.
-
-## Future Hooks
-- The Infinite Staircase may become a recurring path for extraplanar travel.
-
-# Original Notes

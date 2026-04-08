@@ -7,4 +7,3 @@
 - Reunited emotionally with Cylindra in the jungle near [[Bone Speaker Ruins]]
 - Part of the loyalist side of the internal struggle surrounding Cylindra's house
 
-# Original Notes

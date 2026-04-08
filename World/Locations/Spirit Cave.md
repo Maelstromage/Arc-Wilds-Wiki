@@ -31,7 +31,3 @@
 - Are there more records or relics hidden there still?
 - Can the trapped spirits be released?
 
-# Original Notes
-- It was a cave full of spirits that were trapped and could not leave.
-- There was a bookshelf there that had all but rotted away.
-- One book there was sold to John Harrison.

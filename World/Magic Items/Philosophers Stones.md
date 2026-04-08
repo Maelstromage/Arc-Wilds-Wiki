@@ -17,4 +17,3 @@
 - Xavriel's work suggests the stones are not relics merely found in the ruins, but products he is actively attempting to manufacture
 
 
-# Original Notes

@@ -32,12 +32,3 @@
 - Why have the sea hags claimed the river here?
 - What else might the drawings reveal if studied more closely?
 
-# Original Notes
-- On walls are drawings of elves
-- two lovers leading a group of other elves
-- This is drawings from golden age and beginings of magic
-- In the center of the room is a tiny wooden box covered in ivy
-- painted white and blue
-- folding boat
-- sea hags are around this place
-- they own river by cave

@@ -13,5 +13,3 @@
 - The struggle around Cylindra is not simply exile but an active succession dispute within her house
 - Operates with persistence and coordination rather than acting like a random wandering group
 
-# Original Notes
-

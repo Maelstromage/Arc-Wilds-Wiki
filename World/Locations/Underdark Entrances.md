@@ -9,4 +9,3 @@ A reference note for known or suspected ways into the Underdark.
 - The opening was noted during deeper exploration of the temple beneath the canyon.
 - The route appears dangerous and remains only partially explored.
 
-# Original Notes

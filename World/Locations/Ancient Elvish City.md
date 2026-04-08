@@ -62,19 +62,4 @@
 - What more does the city remember about Netheril and the corruption of magic?
 - Where is Silver Down now?
 
-# Original Notes
-- Red Dragon Wyrmling causing issues during festival.
-- Zrumlock
-- At one point as elves are dancing attacked by hooded figures.
-- Group is hunting sun elves, they are Drow lead by priestests.
-- Grate that a drow protects was a young sun elf girl.
-- griset was her name.
-- leader of sun elves is Salon.
-- High elf city.
-- Quinnelith - scout sun elf.
-- Galos - King of Sun Elfs.
-- Fragile man looks 40 white streaks in hair.
-- Grimace the Wise - weilded sword called Silver down (bird feathers) durning war in Golden age.
-- Statue of Elfs giving man a floating island blue gem in middle mythalar.
-- Shows the history of elves giving man magic, a cautionary tale not to trust outsiders since they ruined magic by abusing it, Netheril.
-- Silver Down - longsword that is made of mythiral and magical.
+[[Ancient Elvish City (DM)]]

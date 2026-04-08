@@ -8,4 +8,3 @@
 - Travels by a flying boat drawn by gigantic goats
 - Likely one of the finest builders the party has ever encountered
 
-# Original Notes

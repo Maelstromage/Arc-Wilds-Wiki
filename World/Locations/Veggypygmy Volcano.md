@@ -38,19 +38,3 @@
 - Are there more chambers deeper inside the volcano? [[2021-05-28]]
 - What lasting effects did the granted wishes have on the region or the party? [[2021-05-28]]
 
-# Original Notes
-- Each player was affected by a strange magical effect
-- Chirp Chirps feathers became green and her beak split and had tusks. She looked like an orc?
-- A giant volcano was behind them. Linla tricked them into thinking she had control of the volcano
-- They got out and were worshiped by the veggypygmies. They got head dresses and were feed
-- They carried them up to the top of the volcano and the veggiepygmies tried to comunnicate that they wanted them to go down and talk with their god, an efreeti, but they are too dumb to mime it out.
-- They players ee a tunnel downard andfind a room with beautiful colorful tapestries and a giant floor pillow that was purple with gold trim and tassels. Behind the pillow a brass urn sat there, it was very hot.
-- Chirpchirp loving shiny things could thelp but touch it, he dropped it when it burned him.
-- An efreeti came out and gave them three wishes. Each player made a wish.
-- Hopper wannted to be able to talk with her friends. Portia wanted everyone to talk with everyone.
-- Linla wanted to remember her past, pretty much ariel but got abducted by hobgoblins before she could marry prince.
-- ChirpChirp wanted the mountain to explode and disappear.
-- All of this happened but the Efreeti took the veggiepygmies with him.
-- Efreeti lives at bottom of volcano, veggipygmi have a villiage outside.
-- They madescarifices to the volcano
-- Area 10 used to have a volcano but a Kenku named ChirpChirp talked to the Efreeti that lived there and wished it away. It will appear somewhere else, maybe in the high elf settlment.

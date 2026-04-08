@@ -14,14 +14,3 @@
 - Appears to tolerate or protect Jax, though the reason is unknown
 - May be tied in some way to the sense of safety associated with Odin's Eye or Myeve
 
-# Original Notes
-- Owner of Odin's Eye
-- Dressed entirely in black
-- Rarely speaks
-- Never serves drinks
-- Always present
-- Feels more like a guardian, judge, or something more than mortal
-- Quiet, imposing figure dressed in black
-- Amruniel allowed Jax to stay (reason unknown)
-- Silent authority / unseen enforcement
-- Anchor of safety (implied, not explained)

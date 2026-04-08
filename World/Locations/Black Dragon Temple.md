@@ -26,24 +26,4 @@
 - Who or what do the kobold followers serve here?
 - How is Black Dragon Temple tied to the rest of Black Tooth Marshes?
 
-# DM Notes
-## Hidden Truths
-- The temple may hold deeper ties to the Old One or the disrupted powers of the marsh.
-
-## NPC Truths
-- The kobold followers may serve a force deeper than the temple’s surface appearance suggests.
-
-## Mechanics / Encounters
-- The temple is underground and likely functions differently from the open marsh sites around it.
-
-## Future Hooks
-- Black Dragon Temple may become the next major interior site within Black Tooth Marshes.
-
-# Original Notes
-- Black Dragon Temple
-- underground temple
-- door that talks.
-- Talking tree
-- Has kobold followers
-
-
+[[Black Dragon Temple (DM)]]

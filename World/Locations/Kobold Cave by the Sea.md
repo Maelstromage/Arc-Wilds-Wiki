@@ -31,17 +31,3 @@
 - Is the dragon aware of or aligned with their devotion to Mammon?
 - What lies deeper in the cave beyond the kobolds?
 
-# DM Notes
-## Hidden Truths
-- The kobolds worship Mammon.
-
-## Mechanics / Encounters
-- The dragon’s exact strength or challenge is still uncertain.
-
-# Original Notes
-- Dragon is in cave and kobolds
-- By the shore, there is a small cave where a dragon, CR? lives
-- The Kobolds worship it.
-- Linla found this area she is the Mermaid
-- These Kobolds worship Mammon
-- location 9

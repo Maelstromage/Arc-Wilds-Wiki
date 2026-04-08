@@ -47,4 +47,3 @@
 - How far does the town’s protection actually extend?
 - Why was Myeve founded at this fog-bound harbor, and what was already present before it grew into a frontier settlement?
 
-# Original Notes

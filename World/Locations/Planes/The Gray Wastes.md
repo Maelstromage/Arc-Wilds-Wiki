@@ -23,14 +23,3 @@
 - What do the silent figures on the shore truly see when they watch the living pass by?
 - How does judgment in Pluton connect to the wider afterlives of the dead?
 
-# DM Notes
-## Hidden Truths
-- The Gray Wastes should feel spiritually draining, not merely physically desolate.
-
-## Mechanics / Encounters
-- Travel there should emphasize exhaustion, sorrow, and the erosion of certainty.
-
-## Future Hooks
-- The Gray Wastes may become a recurring planar threshold if the party continues through lower-plane routes.
-
-# Original Notes

@@ -10,4 +10,3 @@
 - Later found her companions dead and eaten
 - Departed alone to seek vengeance against the sharp-toothed predator
 
-# Original Notes

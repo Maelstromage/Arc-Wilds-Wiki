@@ -8,7 +8,7 @@
 - A sacred cave near the village is said to bless worthy weapons.
 
 ## What is Known
-- Bone Speaker Village is a tribal settlement within [[Bone Speaker Jungle]].
+- Bone Speaker Village is a tribal settlement within [[D&D/Campaigns/00 West Marches/World/Locations/Bone Speaker Jungle]].
 - The people there speak Toki Pona.
 - The village includes a large communal hut known as Tomo Suli where guests may sleep on woven grass beds.
 - Tomo Suli serves as a shared lodging and gathering place for guests and villagers alike.
@@ -42,21 +42,3 @@
 - What other words, customs, and beliefs of the village remain misunderstood by outsiders?
 - How old is the village's connection to the Lake of Bones and the surrounding jungle?
 
-# DM Notes
-## Hidden Truths
-- The village's sacred rites preserve older spiritual traditions than most outsiders realize.
-
-## NPC Truths
-- The villagers are observant, humorous, and willing to test outsiders before fully trusting them.
-
-## Mechanics / Encounters
-- The sacred cave ritual can bless a worthy weapon.
-- The cave pool can become the focus of a spiritual test or revelation.
-- Toki Pona and local custom may shape how visitors are received.
-
-## Future Hooks
-- Bone Speaker Village may become an important allied settlement for jungle travel and translation.
-- The village's sacred spirit and rituals may reveal more if the party returns.
-
-# Original Notes
-- Bone Speaker Village exists as a smaller community within Bone Speaker Jungle. It serves as a waypoint for expedition teams.

@@ -29,9 +29,3 @@
 - Who or what is responsible for the enchantment over the forest?
 - Does the seasonal cycle repeat endlessly for those who travel deep enough?
 
-# Original Notes
-- It is called the Forest of Seasons.
-- Each hour of travel within it becomes a season: spring, summer, fall, winter.
-- It is rumored that the veil between the Feywild and the Material Plane is thin there.
-- location 6
-- 
