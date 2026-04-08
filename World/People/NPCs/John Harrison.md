@@ -1,0 +1,66 @@
+![[gemini-image-2_A_sturdy_well-fed_dwarf_with_a_thick_red_beard_and_weathered_features_standing_i-0.jpg]]
+# John Harrison
+
+- Well-fed, weathered, red-bearded dwarf
+- Scholar
+- Collector
+- Historian
+- Employer and expedition patron
+- Most often found in Odin's Eye in Myeve or at Harrison's Manor
+- Walks with a limp
+- Uses a cane
+- Wears a monocle
+- Wears a wide-brimmed explorer's hat
+- Values knowledge more than coin
+- Hires adventurers to investigate dangerous places, recover relics, and pursue old mysteries
+- More interested in meaning, origin, and history than in treasure alone
+- Knows Draconic [[2022-02-02 Session 1]]
+- Was excited at the chance to question an aboleth because such beings may hold near-infinite knowledge [[2022-02-02 Session 1]]
+- Long-time friend of Brottor Burrowfound
+- Previously hired adventurers to search for Brottor in Skystone Castle
+- Brottor has since been rescued and returned home
+- Lives and works out of Harrison's Manor in Myeve
+- His manor has a cherry-oak door with gold filigree
+- His manor has stained glass showing a dwarf holding a diamond
+- Keeps unusual artifacts and curiosities in the manor
+- Was polishing a fossilized egg when first encountered in the manor
+- Maintains a large reconstructed golden orrery at Harrison's Manor
+- Uses recovered artifacts and relics to piece together the lost history of the land
+- Has collected 32 unique numbered stone figurines out of a larger set of 64
+- Believes the figurines are part of a larger mechanism still waiting to be found
+- Notable objects associated with him or his manor include:
+  - A broken metal tablet with Elvish writing
+  - Writing concerning the Silver Age and Golden Age
+  - A taxidermied Tabaxi head
+  - A rhino head
+  - A fossilized old egg
+  - A large golden orrery reconstructed from temple finds
+  - Thirty-two numbered stone figurines depicting animals and monsters
+  - An old lacquered cane that looks natural rather than carved
+- If asked about the cane, he says he got it from a one-eyed orc in a bog
+- Sells Rings of Warmth for 400 gold
+
+# Original Notes
+Dwarf Red bearded dwarf  
+Has a limp and cane  
+Has a monicle  
+Front door has gold filagree  
+Stained glass with a dwarf olding a diamond  
+Cherry oak door  
+Cane knarled old an used is lackered looks like it is natural not carved  
+Wide brimed fadora  
+Metal plate broken has writing on it  
+Tells of silver age and golden age  
+Elvish writing  
+Rhino head  
+Tabaxi head  
+Fossil Old egg  
+Morgrains belt  
+Dwarven belt  
+Jana has it needs to get to lv 7  
+Told Morgrain fought 7 dragons to get the belts respect  
+Sells rings of warmth for 400g
+
+
+Got stick from a one eyed orc in bog
+
